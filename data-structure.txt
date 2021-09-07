@@ -1,0 +1,35 @@
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
+
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
+
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
+
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
+
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
+
+{
+	memberId: <int>
+	memberName: <string>
+	presence: <bool>		  
+}
